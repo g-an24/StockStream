@@ -1,3 +1,4 @@
 logs
 .DS_Store
 producer/logs
+__pycache__
