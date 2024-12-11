@@ -125,7 +125,11 @@ The project structure is organized as follows, highlighting the code flow:
 
 The real-time stock monitoring dashboard provides a comprehensive view of stock prices, trends, and aggregated metrics. Below is a preview:
 
+<<<<<<< HEAD
 *Include a screenshot or diagram of the Grafana dashboard here.*
+=======
+![Dashboard Preview](images/grafana.jpg)
+>>>>>>> 5fbdc66 (readme updated)
 
 This dashboard allows users to track real-time stock price changes, analyze trends, and make informed decisions.
 
@@ -133,7 +137,11 @@ This dashboard allows users to track real-time stock price changes, analyze tren
 
 The architecture of this project integrates multiple components to ensure efficient real-time data streaming, processing, storage, and visualization. Below is the architecture diagram:
 
+<<<<<<< HEAD
 *Include a diagram of the architecture here.*
+=======
+![Project Architecture](images/architecture.jpg)
+>>>>>>> 5fbdc66 (readme updated)
 
 ### Key Highlights:
 - Producers fetch data from APIs and publish to Kafka topics.
