@@ -13,7 +13,7 @@ This project, **StockStream**, is designed to retrieve real-time stock data, per
 - [Dashboard Preview](#dashboard-preview)
 - [Project Architecture](#project-architecture)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
+
 
 ## Commands to Run the Project
 
